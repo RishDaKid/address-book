@@ -97,7 +97,7 @@ if(isset($_POST['submit'])){
               <!-- /.box-body -->
 
               <div class="box-footer">
-                <button  type="submit" class="button" name="submit">Add Admin</button>
+                <button  type="submit" class="button" name="submit">Add contact</button>
 
            
               </div>
